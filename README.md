@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @amberezach
-- 👀 I’m interested in Software QA Engineering, cats, & traveling!
-- 🌱 I’m currently learning everything QA related, Python, & Selenium!
+- 👋 Hi, I’m @amberezach :)
+- 👀 I’m interested in anything Software QA Engineering related, automation, cats, & traveling.
+- 🌱 I’m currently learning Automation.
 - 💞️ I’m looking to collaborate on all things testing!
-- 📫 How to reach me is to email me at amberezach@gmail.com
+- 📫 How to reach me is to email me at amberezach@gmail.com.
 - 😄 Pronouns: I'm a lady! How rude!
 - ⚡ Fun fact: I have been to Paris and ate a fancy dinner in th Eiffel Tower!
 
